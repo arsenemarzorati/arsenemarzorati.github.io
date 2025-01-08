@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/AMLA-en
 venue: "University Lyon 1 Claude Bernard, Mathematics"
-date: 2023-2024
+date: 2023
 ---
 
 Training session for students in second year of B.S in informatics.

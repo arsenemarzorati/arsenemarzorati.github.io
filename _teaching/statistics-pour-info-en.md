@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/statistics-pour-info-en
 venue: "University Lyon 1 Claude Bernard, Mathematics"
-date: 2024
 ---
 
 Training session for students in second year of B.S in Informatics.

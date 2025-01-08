@@ -15,12 +15,11 @@ Education
 * M.S. in Mathematical Engineering, [Politecnico di Milano](https://www.polimi.it/en/), 2020-2022
 * B.S. & M.S. in *General* Engineering (Mathematics, Physics, Mechanics...), [Centrale Lyon](https://www.ec-lyon.fr/en) 2018-2022
 
-Teaching
+[Teaching]()
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+* 
+*
+*
   
 Skills
 ======
@@ -35,19 +34,6 @@ Language
 * English (B2/C1)
 * Italian (A2)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-  
 Service
 ======
-* 
+* Treasurer of AGOS Lyon, association for Inria worker social support.

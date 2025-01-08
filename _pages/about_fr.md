@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Présentation"
+title: "Présentation :fr:"
 author_profile: true
 redirect_from: 
   - /about/

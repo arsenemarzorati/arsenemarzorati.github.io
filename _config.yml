@@ -21,11 +21,11 @@ repository               : "arsenemarzorati/arsenemarzorati.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpg"
   name             : #""
   pronouns         : # example: "she/her"  
-  bio              : "Inria PhD student"
-  location         : "Lyon, France"
+  bio              : "Inria, PhD student (3rd year)"
+  location         : "Lyon, France :fr:"
   employer         : "Inria"
   uri              : # URL
   email            : "arsene.marzorati@inria.fr" 

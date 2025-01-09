@@ -15,5 +15,4 @@ I am working on mixed-precision in the context of numerical solvers for solving 
 
 I have a double-degree in mathematical engineering with [Centrale Lyon](https://www.ec-lyon.fr/en) and [Politecnico di Milano](https://www.polimi.it/en/).
 
-Don't hesitate to contact me by [email](arsene.marzorati@inria.fr).
-
+Don't hesitate to contact me by [email](mailto:arsene.marzorati@inria.fr).

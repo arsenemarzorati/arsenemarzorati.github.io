@@ -15,7 +15,7 @@ Education
 * M.S. in Mathematical Engineering, [Politecnico di Milano](https://www.polimi.it/en/), 2020-2022
 * B.S. & M.S. in *General* Engineering (Mathematics, Physics, Mechanics...), [Centrale Lyon](https://www.ec-lyon.fr/en) 2018-2022
 
-[Teaching](/teaching/)
+Teaching
 ======
 * Matrix anlysis and applied linear algebra (2023-2024)
 * Linear algebra, series and ODEs (2024)

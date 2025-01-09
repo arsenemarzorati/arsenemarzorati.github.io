@@ -20,7 +20,7 @@ redirect_from:
 
 </FONT>
 
-### [Publication]({{ '/publication/' | relative_url }})
+### [Publications]({{ '/publications/' | relative_url }})
 <FONT size="2pt">
 
 <ul> 

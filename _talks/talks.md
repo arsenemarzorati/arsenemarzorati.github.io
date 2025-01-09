@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 [CANUM](https://canum2024.math.cnrs.fr/en/) (2024)
-====
+=======
 
 **Mixed precision and local error in ordinary differential equations**
 

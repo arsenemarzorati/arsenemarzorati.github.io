@@ -31,13 +31,13 @@ To reduce the degradation of the global accuracy, mixing the precision inside th
 We performed tests on two benchmarks, and our results show that as the size of the system increases, the error introduced by low precision is absorbed by numerical compensation in high-dimensional systems. Moreover, the local error (in comparison with a double precision solver) measured by the solver is more robust to low tolerances in the case of mixed precision than a full low precision solver.
 
 
-[1] J. Ackmann, P. D. Dueben, T. Palmer, P. K. Smolarkiewicz.Mixed-PrecisionforLinearSolversinGlobalGeophysicalFlows. J Adv Model Earth Syst, 2022.
+<br> [1] J. Ackmann, P. D. Dueben, T. Palmer, P. K. Smolarkiewicz.Mixed-PrecisionforLinearSolversinGlobalGeophysicalFlows. J Adv Model Earth Syst, 2022.
 
-[2] M. Croci, G. R. de Souza.Mixed-precisionexplicitstabilizedRunge-Kuttamethodsforsingle-andmulti-scaledifferentialequations. J Comput Phys, 2022.
+<br> [2] M. Croci, G. R. de Souza.Mixed-precisionexplicitstabilizedRunge-Kuttamethodsforsingle-andmulti-scaledifferentialequations. J Comput Phys, 2022.
 
-[3] A. Haidar, S. Tomov, J. Dongarra, N. J. Higham.Harnessinggputensorcoresforfastfp16arithmetictospeedupmixed-precisioniterativerefinementsolvers. InSC18:Int.Conf.HighPerform.Comput.Netw.StorageAnal. IEEE, 2018.
+<br> [3] A. Haidar, S. Tomov, J. Dongarra, N. J. Higham.Harnessinggputensorcoresforfastfp16arithmetictospeedupmixed-precisioniterativerefinementsolvers. InSC18:Int.Conf.HighPerform.Comput.Netw.StorageAnal. IEEE, 2018.
 
-[4] J. Hayford, J. Goldman-Wetzler, E. Wang, L. Lu Speedingupandreducingmemoryusageforscientificmachinelearningviamixedprecision. arXiv preprint, 2024.
+<br> [4] J. Hayford, J. Goldman-Wetzler, E. Wang, L. Lu Speedingupandreducingmemoryusageforscientificmachinelearningviamixedprecision. arXiv preprint, 2024.
 
-[5] N. J. Higham, T. Mary.Mixedprecisionalgorithmsinnumericallinearalgebra. Acta Numerica, 2022
+<br> [5] N. J. Higham, T. Mary.Mixedprecisionalgorithmsinnumericallinearalgebra. Acta Numerica, 2022
 </FONT>

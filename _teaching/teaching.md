@@ -7,22 +7,26 @@ redirect_from:
   - /teaching
 ---
 
-Matrix Analysis and Applied Linear Algebra (2023-2024)
-======
+### Matrix Analysis and Applied Linear Algebra (2023-2024)
 
-Training session for students in second year of B.S in informatics.
+<FONT size="2pt">
+Training sessions for students in second year of B.S in informatic.
 
-The topic covers matrix analysis (eigen values, eigen vectors, diagonalization...) to compute power and exponantial of matrices in order to solve discrete and continous problems.
+<br> The course covers matrix analysis (eigen values, eigen vectors, diagonalization...) to compute power and exponantial of matrices in order to solve discrete and continous problems.
+</FONT>
 
-Linear algebra, series and ODEs (2024)
-=======
+### Linear algebra, series and ODEs (2024)
 
+<FONT size="2pt">
 Training session for students in second year of B.S in Physics and Sciences of Engineering.
 
-The topic covers linear algebra (vector space, matrix analysis), sequences, series and ODEs.
+<br> The course covers linear algebra (vector space, matrix analysis), sequences, series and ODEs.
+</FONT>
 
-Statistics for informatic (2024)
-=======
+### Statistics for informatic (2024)
+
+<FONT size="2pt">
 Training session for students in second year of B.S in Informatics.
 
-The topic covers theoretical exercices on descriptive statistics and probabilty and pratical sessions with Jupyter notebook to use the theoretical notions on real cases.
+<br> The course covers theoretical exercices on descriptive statistics and probabilty and pratical sessions with Jupyter notebook to use the theoretical notions on real cases.
+</FONT>

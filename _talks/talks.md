@@ -21,7 +21,9 @@ Given that biological problems often have high empirical uncertainties, it could
 Mixed precision consists in using different levels of arithmetic precision within one computational task. Several fields already use this technique, such as geophysics [1] or machine learning [2]. Mixed precision methods have also attracted attention for problems involving differential equations [3].
 
 Our study deals with a population of heterogeneous agents of size $N$,  with $N \gg 1$, where each agent is described by a state variable $X_i \in \mathbb{R}^{d}$, which evolves according to an autonomous term ($F_i$, $i=1,...,N$) and a term accounting for complex pairwise interactions ($G_{ij}$, $i,j=1,...,N$). The following system of equations describes the general framework. For $i = 1,...,N$,
+
 $$\dot{X}_i = F_i(X_i)+\frac{1}{N}\sum_{j=1}^{N} G_{ij}(X_i,X_j).$$
+
 The evaluation of the $N$ right-hand sides requires the sum of $N$ nonlinear terms, leading to a $O(N^2)$ complexity. Reducing the precision used during the sum could accelerate the whole evaluation process by a considerable amount, as performed with iterative refinement solvers in [4].
 
 To reduce the degradation of the global accuracy, mixing the precision inside the evaluations could allow minimizing the impact of the numerical error due to the insertion of low precision [5]. 

@@ -15,6 +15,12 @@ Education
 * M.S. in Mathematical Engineering, [Politecnico di Milano](https://www.polimi.it/en/), 2020-2022
 * B.S. & M.S. in *General* Engineering (Mathematics, Physics, Mechanics...), [Centrale Lyon](https://www.ec-lyon.fr/en) 2018-2022
 
+[Publication]({{ '/publication/' | relative_url }})
+======
+* Adimy M, Chekroun A, El Abdllaoui A, Marzorati A. *Discrete maturity and delay differential-difference model of hematopoietic cell dynamics with applications to acute myelogenous leukemia*. Journal of Biological Systems. (2022 Sep)
+* Marzorati A, Turzi S. *Bifurcation analysis of spontaneous flows in active nematic fluids*. Journal of Physics A: Mathematical and Theoretical. (2023 Jul)
+
+
 [Teaching]({{ '/teaching/' | relative_url }})
 ======
 * Matrix anlysis and applied linear algebra (2023-2024)
@@ -24,9 +30,9 @@ Education
 Skills
 ======
 * Matlab
-* Python 
-* C++
-* Mathematica
+* Python (Numpy, Pandas, Jupyter)
+* C++ 
+* Mathematica, Mapple
 
 Language
 ======

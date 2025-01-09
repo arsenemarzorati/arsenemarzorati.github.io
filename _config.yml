@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : #""
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Inria PhD student"
   location         : "Lyon, France"
   employer         : "Inria"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : arsène-marzorati-04b206121
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

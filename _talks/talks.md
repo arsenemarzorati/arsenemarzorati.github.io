@@ -36,4 +36,4 @@ We performed tests on two benchmarks, and our results show that as the size of t
 [3] A. Haidar, S. Tomov, J. Dongarra, N. J. Higham.Harnessinggputensorcoresforfastfp16arithmetictospeedupmixed-precisioniterativerefinementsolvers. InSC18:Int.Conf.HighPerform.Comput.Netw.StorageAnal. IEEE, 2018.\
 [4] J. Hayford, J. Goldman-Wetzler, E. Wang, L. Lu Speedingupandreducingmemoryusageforscientificmachinelearningviamixedprecision. arXiv preprint, 2024.\
 [5] N. J. Higham, T. Mary.Mixedprecisionalgorithmsinnumericallinearalgebra. Acta Numerica, 2022
-<\FONT>
+</FONT>

@@ -13,7 +13,7 @@ redirect_from:
 
 <FONT size="2pt">
 
-<ul> Ph.D in Mixed-precision for numerical solving of ODEs, [Inria Lyon](https://www.inria.fr/fr/centre-inria-de-lyon) and [INSA Lyon](https://www.insa-lyon.fr/), 2022-2025 (current) </ul>
+<ul> Ph.D in Mixed-precision for numerical solving of ODEs, <a, href=https://www.inria.fr/fr/centre-inria-de-lyon> Inria Lyon </a> and <a, href=https://www.insa-lyon.fr/> INSA Lyon </a>, 2022-2025 (current) </ul>
 <ul> M.S. in Mathematical Engineering, [Politecnico di Milano](https://www.polimi.it/en/), 2020-2022 </ul>
 <ul> B.S. & M.S. in *General* Engineering (Mathematics, Physics, Mechanics...), [Centrale Lyon](https://www.ec-lyon.fr/en) 2018-2022 </ul>
 

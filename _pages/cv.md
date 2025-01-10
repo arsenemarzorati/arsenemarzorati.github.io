@@ -60,6 +60,6 @@ redirect_from:
 ### Service
 <FONT size="2pt">
 <ul> 
-<li>Treasurer of AGOS Lyon, association for Inria worker social support.</li>
+<li>Treasurer of AGOS Lyon, an association providing social benefits for Inria employees.</li>
 </ul>
 </FONT>

@@ -12,9 +12,10 @@ redirect_from:
 <FONT size="3pt">
 <i> Mixed precision and local error in ordinary differential equations </i>
 </FONT>
-<br>
+
 <FONT size="2pt">
- In computational biology, many problems are modelled using individual-based or agent-based modelling. 
+<br>
+In computational biology, many problems are modelled using individual-based or agent-based modelling. 
 When expressed as ordinary differential equations (ODEs), these models lead to high-dimensional systems. 
 The computational cost increases supra-linearly with the size of these systems. Accordingly, the solving of full-scale systems is intractable in terms of computational cost.
 

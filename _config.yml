@@ -24,9 +24,9 @@ author:
   avatar           : "profile_photo.jpg"
   name             : #""
   pronouns         : # example: "she/her"  
-  bio              : "Inria, PhD student (third-year)"
-  location         : "Lyon, France"
-  employer         : "Inria"
+  bio              : "PhD applied mathematics"
+  location         : "Paris, France"
+  employer         : #""
   uri              : # URL
   email            : "arsene.marzorati@gmail.com" 
 

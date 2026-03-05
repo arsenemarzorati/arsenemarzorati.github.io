@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /teaching
 ---
-I am a teaching assistant for the following courses:
+I was a teaching assistant for the following courses:
 
 ### Linear algebra, series and ODEs (2024)
 

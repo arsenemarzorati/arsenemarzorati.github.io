@@ -7,6 +7,42 @@ redirect_from:
   - /talks
 ---
 
+### [SMAI Biennal](https://smai2025.math.cnrs.fr/en/) (2025)
+
+<FONT size="3pt">
+<i> Mixed-Precision for solving large biological models </i>
+</FONT>
+
+<FONT size="2pt">
+<br>
+In computational biology, agent-based models (ABM) are a computational modelling approach for complex living systems, enabling heterogeneity across agents. ABMs are often better aligned with data from real large systems [2]. However, the computational cost, which can increase supra-linearly with size, is a major challenge that limits applicability. In our work, we suggest to tackle this problem with the use of mixed-precision.
+
+Mixed-precision methods consist in using two or more numerical formats, usually floating point numbers [5], inside a single numerical method, to find a good trade-off between the accuracy and speed. These methods are developed in several fields that encounter similar dimensional computing problems such machine-learning [3], linear algebra [1] or meteorology [4].
+
+Here, we consider an ABM of $N$ heterogeneous agents described by  a state variable in $X \in \mathbb{R}^{d N}$, where each agent is described by the $d$-dimensional sub-vector $\mathbf{X}_i$ in $\mathbb{R}^{d}$, extracted from $\mathbf{X}_i=\Big(X_{(i-1)d+1},...,X_{id}\Big)$. We assume that the dynamical dependence is split into two parts, an agent-centered term $F_i:\mathbb{R}\times\mathbb{R}^d\to\mathbb{R}^d$ and a term $G_{ij}:\mathbb{R}\times\mathbb{R}^d\times\mathbb{R}^d\to\mathbb{R}^d$ accounting for complex pairwise interactions, which are weighted by a vector $M_{ij} \in \mathbb{R}^d$. The state of each agent follows the nonlinear ODE:
+\begin{equation*}
+	\dot{\mathbf{X}_i}(t) = F_i(t,\mathbf{X}_i) + \sum_{j=1}^N M_{ij}(t,\mathbf{X}_i)\odot G_{ij}(t,\mathbf{X}_i,\mathbf{X}_j), \,i\in{1,...,N},
+\end{equation*} 
+where $\odot$ is the Hadamard, or element-wise, product.
+We make no assumption on the form of  $G_{ij}$, except that all the $N$ agents can  interact heterogeneously with each other.  This leads to a right-hand side with a complexity in $N^2$ that is difficult to reduce.
+
+We show that accuracy of numerical scheme is improved with the mixed-precision tuning as the system size increases. As the size of the population ($N$) increases, rounding errors coming from low precision terms are absorbed by the large number of interactions. This result is highlighted by a study exploring the parameters of three benchmarks. In addition, the complexity of non-linear functions used in modeling and the increasing size tend to increase the speed-up of low precision. This leads to an interesting gain in performance with a limited degradation in accuracy, particularly for interaction evaluations.
+<br>
+<br> [1] A. Abdelfattah, H. Anzt, A. Ayala, E. Boman, E. Carson, S. Cayrols, T. Cojean, J. Dongarra, R. Falgout,
+M. Gates, et al. Advances in mixed precision algorithms : 2021 edition. Tech. rep., Lawrence Livermore
+National Lab.(LLNL), Livermore, CA (United States), 2021.
+<br> [2] C. M. Glen, M. L. Kemp, E. O. Voit. Agent-based modeling of morphogenetic systems : Advantages and
+challenges. PLoS Comput. Biol, 15(3), e1006577, 2019.
+<br> [3] J. Hayford, J. Goldman-Wetzler, E. Wang, L. Lu. Speeding up and reducing memory usage for scientific
+machine learning via mixed precision. Comput. Methods Appl. Mech. Eng., 428, 117093, 2024.
+<br> [4] T. N. Palmer. More reliable forecasts with less precise computations : A fast-track route to cloud-resolved
+weather and climate simulators? Philos. Trans. R. Soc. London, Ser. A, 372(2018), 20130391, 2014.
+<br> [5] D. Zuras, M. Cowlishaw, A. Aiken, M. Applegate, D. Bailey, S. Bass, D. Bhandarkar, M. Bhat, D. Bindel,
+S. Boldo, et al. IEEE standard for floating-point arithmetic. IEEE Std, 754(2008), 1–70, 2008.
+</FONT>
+
+
+
 ### [CANUM](https://canum2024.math.cnrs.fr/en/) (2024)
 
 <FONT size="3pt">

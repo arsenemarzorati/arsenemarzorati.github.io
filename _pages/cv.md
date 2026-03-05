@@ -24,7 +24,7 @@ redirect_from:
 <FONT size="2pt">
 
 <ul> 
-<li> Al Sayed Ali M, Bernard S, Marzorati A, and Rouzaud-Cornabas J <i> Mixed precision implicit numerical schemes for systems of ordinary differential equations</i>. Numerical Algorithms (2025)<\li>
+<li> Al Sayed Ali M, Bernard S, Marzorati A, and Rouzaud-Cornabas J <i> Mixed precision implicit numerical schemes for systems of ordinary differential equations</i>. Numerical Algorithms. (2025)<\li>
 <li>Marzorati A, Turzi S <i> Bifurcation analysis of spontaneous flows in active nematic fluids</i>. Journal of Physics A: Mathematical and Theoretical. (2023)</li>
 <li>Adimy M, Chekroun A, El Abdllaoui A, Marzorati A. <i> Discrete maturity and delay differential-difference model of hematopoietic cell dynamics with applications to acute myelogenous leukemia </i>. Journal of Biological Systems. (2022)</li>
 </ul>

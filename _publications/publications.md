@@ -6,10 +6,19 @@ author_profile: true
 redirect_from:
   - /publications
 ---
+
 ## *Mixed-precision for solving large ODEs systems*
 
 <FONT size="2pt">
 Al-Sayed Ali M, Bernard S, Marzorati A, Rouzaud-Cornabas J. (In writing)
+</FONT>
+
+### *Mixed precision implicit numerical schemes for systems of ordinary differential equations*
+
+<FONT size="2pt">
+Al-Sayed Ali M, Bernard S, Marzorati A, Rouzaud-Cornabas J. Numerical Algorithms. (2025)
+
+<br> Ordinary differential equations (ODEs) are widely used to model complex systems in biology, which result from the interactions of a large number of cells or organisms. This can lead to a substantial system size. These complex interactions can quickly alter their behavior, and some biological systems are stiff when represented as ODEs [59]. Therefore, these stiff ODEs could benefit from implicit numerical schemes. However, each iteration of these schemes involves solving a large nonlinear system, typically using the Newton method. To guarantee the global convergence of this method, we use line search (LS) and trust region (TR) algorithms. In this paper, we introduce a new approach to accelerate the computation of the implicit schemes by using mixed precision arithmetic, combining float and double precision, within the LS and TR algorithms, as well as in the Newton method. This approach aims at balancing the performance of lower precision arithmetic with the accuracy of higher precision arithmetic. We give theoretical results that show the efficiency of our approach. Numerical experiments show that our approach, running in either sequential or in parallel with MPI, is up to twice as fast as the double precision approach with the same level of accuracy. These experiments also show that increasing the size of the ODEs does not impact the quality of our mixed precision solution.
 </FONT>
 
 ### *Bifurcation analysis of spontaneous flows in active nematic fluids*
